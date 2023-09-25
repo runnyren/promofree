@@ -1,15 +1,15 @@
 {
-    "name": "runnyren",
+    "name": "runnyren/promofree",
     "type": "project",
     "description": "Free spins for Unibet",
     "license": "OSL-3.0",
     "authors": [
         {
-            "name": "runnyren",
+            "name": "runnyren/promofree",
             "email": "ren985204@gmail.com"
         },
         {
-            "name": "runnyren",
+            "name": "runnyren/promofree",
             "homepage": "https://promocodius.com/no/rabattkode/unibet-kampanjekode"
         }
     ],
