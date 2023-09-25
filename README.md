@@ -1,0 +1,2 @@
+# promofree
+Freespins for Unibet
