@@ -1,0 +1,7 @@
+
+  "name": "runnyren",
+  "short_name": "runnyren",
+  "start_url": "./promofree/push.html",
+  "display": "standalone",
+  "gcm_sender_id": "<-your-sender-id>"
+}
