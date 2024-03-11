@@ -1,3 +1,3 @@
 # promofree
-Freespins for Unibet
-https://promocodius.com/no/rabattkode/unibet-kampanjekode Unibet Bonus & Gratis Spinn 
+Bonus for Casino
+https://promocodius.com/sk/kategorie/casino-bonusy Casino Bonus
